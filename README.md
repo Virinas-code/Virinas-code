@@ -2,7 +2,16 @@
 ## Biography
 Developer of Crocrodile  
 📍 Somewhere in France  
-[Lichess account](https://lichess.org/@/Virinas-code)
+### Projects
+- [ ] Crocrodile (chess engine)
+- [x] `cmprss` (compression algorithm)
+- [ ] Agility Teams Manager (very specific)
+- [ ] PLAGUE: Time Wanderer (video game)
+### Programming languages
+- 🐍 Python
+- 🌐 HTML, CSS and Javascript
+### Other accounts
+- ♟️ [Lichess account](https://lichess.org/@/Virinas-code)
 ## Projects
 - [Crocrodile](https://github.com/Virinas-code/Crocrodile/) - Chess engine
 ## Stats
