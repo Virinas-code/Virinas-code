@@ -4,7 +4,7 @@
 ### Projects
 - [ ] Crocrodile (chess engine)
 - [x] `cmprss` (compression algorithm)
-- [ ] Agility Teams Manager (very specific)
+- [ ] ▶️ **Agility Teams Manager (very specific)**
 - [ ] PLAGUE: Time Wanderer (video game)
 ### Programming languages
 - 🐍 Python
