@@ -1,6 +1,5 @@
 # Virinas-code
 ## Biography
-Developer of Crocrodile  
 📍 Somewhere in France  
 ### Projects
 - [ ] Crocrodile (chess engine)
