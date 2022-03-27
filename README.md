@@ -6,6 +6,8 @@
 - [x] `cmprss` (compression algorithm)
 - [ ] ▶️ **Agility Teams Manager (very specific)**
 - [ ] PLAGUE: Time Wanderer (video game)
+#### Contributions
+- ♟️ Lichess
 ### Programming languages
 - 🐍 Python
 - 🌐 HTML, CSS and Javascript
